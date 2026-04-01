@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Shameem
 
-<!--
-**shameem-ck/shameem-ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about learning new things and building real-world skills in technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning: Cybersecurity
+* 💻 Interested in: Ethical Hacking, Linux, Networking
+* 🎯 Goal: Build a strong career with real skills and freedom
+* ⚡ Fun fact: I enjoy gaming and exploring new tech
+
+---
+
+## 🛠️ Skills
+
+* Linux
+* Basic Networking
+* Python (beginner)
+* Cybersecurity fundamentals
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/shameem-ck
+
+---
+
+## ⚠️ Note
+
+I'm still learning and improving every day 🚀
