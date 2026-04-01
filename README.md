@@ -17,7 +17,6 @@ I'm passionate about learning new things and building real-world skills in techn
 
 * Linux
 * Basic Networking
-* Python (beginner)
 * Cybersecurity fundamentals
 
 ---
